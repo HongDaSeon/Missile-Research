@@ -1,4 +1,6 @@
-# Missile-Research
+
+
+# __Missile-Research__
 ### Intelligent Missile Guidance Research
 
 
@@ -20,3 +22,6 @@ That's the reason this project focus on the novel missile guidance law to be got
 > 2D and 3D environment of a target to dodge a missile
 
 > The dynamics core of missile is going to be dynamic link library(dll) type
+
+
+![](replica_FDC.png)
